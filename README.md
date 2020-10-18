@@ -1,2 +1,2 @@
 # project-happy
-happy is a fullstack and mobile first application developed at rocketseat bootcamp
+happy is a fullstack application developed at rocketseat bootcamp
